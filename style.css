@@ -26,5 +26,29 @@ body{
     width: 70px;
     border: 4px;
     border-color: black;
-    box-shadow: 4px 4px 5pxs;
+    box-shadow: 4px 4px 5px;
+}
+
+#Eraser{
+    height: 100px;
+    width: 90px;
+    border: 4px;
+    box-shadow: 7px 7px 7px;
+    border-color: black;
+}
+
+#Eraser .eraser{
+    height: 45px;
+    width: 80px;
+    border: 20px;
+    box-shadow: 5px 5px 5px;
+    border-color: black;
+}
+
+#Eraser .EraseAll{
+    height: 45px;
+    width: 80px;
+    border: 20px;
+    box-shadow: 5px 5px 5px;
+    border-color: black;
 }
